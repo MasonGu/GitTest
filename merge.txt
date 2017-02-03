@@ -1,2 +1,4 @@
 master:add 1
 master:add 3
+merge:add 2
+merge:add 4
