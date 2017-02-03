@@ -1,0 +1,1 @@
+stash:add 1
